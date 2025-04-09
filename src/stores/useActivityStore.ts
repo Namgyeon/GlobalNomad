@@ -14,7 +14,7 @@ interface ActivityData {
   price: number;
   schedules: Schedule[];
   bannerImageUrl: string;
-  subImageUrls: string[];
+  subImageUrls: { id: number; imageUrl: string }[];
   subImageFiles: File[]; 
   startTime: string;
   endTime: string;  
@@ -22,11 +22,16 @@ interface ActivityData {
   bannerImageFile: File | null;
   latitude?: number;
   longitude?: number;
-
+  subImageUrlsToAdd: string[];
+  subImageIdsToRemove:number[];
+  schedulesToAdd: Schedule[];
+  scheduleIdsToRemove: number[];
 }
 interface ActivityStore {
     activity: ActivityData;
-    setActivity: (data: Partial<ActivityData>) => void;
+    setActivity: (
+      data: Partial<ActivityData> | ((prev: ActivityData) => Partial<ActivityData>)
+    ) => void;
     addSchedule: () => void;
     removeSchedule: (index: number) => void;
     updateSchedule: (index: number, field: keyof Schedule, value: string) => void;
@@ -49,6 +54,10 @@ interface ActivityStore {
     bannerImageFile: null,
     latitude: undefined,
     longitude: undefined,
+    subImageUrlsToAdd: [],
+    subImageIdsToRemove:[],
+    schedulesToAdd: [],
+    scheduleIdsToRemove: [],
   };
   
   export const useActivityStore = create<ActivityStore>((set) => ({

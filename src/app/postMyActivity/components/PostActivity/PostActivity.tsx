@@ -18,7 +18,7 @@ export default function PostActivity() {
 
   useEffect(() => {
     resetActivity(); // ✅ 컴포넌트 진입 시 초기화
-  }, []);
+  }, []); 
 
 
 
@@ -50,7 +50,7 @@ export default function PostActivity() {
       startTime,
       endTime,
       bannerImageUrl,
-      subImageUrls: subImageUrls.filter(Boolean),
+      subImageUrls: subImageUrls.map((img) => img.imageUrl),
       schedules,
     };
 
