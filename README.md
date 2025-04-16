@@ -22,7 +22,7 @@
 ## 🎯 개발 목표 및 차별점
 
 - ⚡ **최신 기술 스택**  
-  - `Next.js App Router`, `React Query`, `Zustand`, `TailwindCSS` 등 활용  
+  - `Next.js App Router`, `React Query`, `Zustand` 등 활용  
 - 🔍 **실제 사용자 시나리오 기반 기능 설계**  
   - 예약 신청, 후기 작성, 체험 관리 등  
 - 🤝 **공통 컴포넌트화 및 코드 컨벤션 공유**  
@@ -33,7 +33,6 @@
 ## 🔗 배포 링크
 
 👉 [GlobalNomad 바로가기](https://your-deploy-link.com)  
-_(배포 링크는 실제 주소로 대체해주세요)_
 
 <br/>
 <br/>
