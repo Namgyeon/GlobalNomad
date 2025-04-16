@@ -30,7 +30,7 @@ export const useAuthStore = create<AuthState>()(
         set({ user: null });
         // 카카오 로그아웃(카카오 계정과 함께 로그아웃하기)
         const clientId = process.env.NEXT_PUBLIC_KAKAO_REST_API_KEY;
-        const logoutRedirectUri = `http://localhost:3000/signin`;
+        const logoutRedirectUri = `https://global-nomad-rust.vercel.app/signin`;
 
         const isKakaoLogin = Cookies.get('kakaoLogin');
         if (isKakaoLogin) {
