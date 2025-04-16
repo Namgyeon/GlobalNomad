@@ -110,19 +110,39 @@
 
 - **협업 툴**
 
-|            |                                                                                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Prittier | <img src="https://blog.kakaocdn.net/dn/cQhnse/btrE8TmCLle/slobwSEwi4nnMvfnGTQp4k/img.png" alt="Prittier" width="100"> |
-| ESLint | <img src="https://blog.kakaocdn.net/dn/XR8jF/btrILfAQFWT/1jLpQkYysDaqHj8OzOlZFk/img.png" alt="ESLint" width="100"> |
-| Storybook | <img src="https://blog.kakaocdn.net/dn/997rV/btsIkARkTej/PdtiBI82EnMzFQjgHkbuI1/img.png" alt="ESLint" width="100"> |
-| JSDoc | <img src="https://velog.velcdn.com/images/zaixu/post/67d77203-8ee7-445e-bb95-4e2bed365c57/image.jpg" alt="JSDoc" width="100"> |
+## 🤝 협업 툴
 
-|         |                                                                                                                                                      |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Git     | <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">                                    |
-| Notion  | <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">                                 |
-| Figma   | <img src="https://i.namu.wiki/i/cAYebt8RyZGac7cdIFcRTJoLftLkBbmXEk0hqRx8V0koKfyQRfxleyZEvOQN_iQ6lrhf44NIA5btYUpb13P8jw.svg" alt="Figma" width="100"> |
-| Discord | <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" alt="Discord" width="100">       |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://blog.kakaocdn.net/dn/cQhnse/btrE8TmCLle/slobwSEwi4nnMvfnGTQp4k/img.png" width="80"/><br/><b>Prettier</b>
+    </td>
+    <td align="center">
+      <img src="https://blog.kakaocdn.net/dn/XR8jF/btrILfAQFWT/1jLpQkYysDaqHj8OzOlZFk/img.png" width="80"/><br/><b>ESLint</b>
+    </td>
+    <td align="center">
+      <img src="https://blog.kakaocdn.net/dn/997rV/btsIkARkTej/PdtiBI82EnMzFQjgHkbuI1/img.png" width="80"/><br/><b>Storybook</b>
+    </td>
+    <td align="center">
+      <img src="https://velog.velcdn.com/images/zaixu/post/67d77203-8ee7-445e-bb95-4e2bed365c57/image.jpg" width="80"/><br/><b>JSDoc</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" width="80"/><br/><b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" width="80"/><br/><b>Notion</b>
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/cAYebt8RyZGac7cdIFcRTJoLftLkBbmXEk0hqRx8V0koKfyQRfxleyZEvOQN_iQ6lrhf44NIA5btYUpb13P8jw.svg" width="80"/><br/><b>Figma</b>
+    </td>
+    <td align="center">
+      <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" width="80"/><br/><b>Discord</b>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
