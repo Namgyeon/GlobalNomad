@@ -89,26 +89,22 @@
 
 # 4. Technology Stack
 
-- **Language**
+## 🛠️ 주요 기술 스택
 
-|            |                                                                                                                                                           |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HTML5      | <img src="https://github.com/user-attachments/assets/2e122e74-a28b-4ce7-aff6-382959216d31" alt="HTML5" width="100">                                       |
-| CSS3       | <img src="https://github.com/user-attachments/assets/c531b03d-55a3-40bf-9195-9ff8c4688f13" alt="CSS3" width="100">                                        |
-| Javascript | <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100">                                  |
-| Typescript | <img src="https://i.namu.wiki/i/EY559r31H-um8uTtptPIbCZoBGxsumSlwEH0T_rA6WmxQq1UwqyAf3cJQJXN7Fv5CoEz0kv5CBXzjkkPU_XWig.svg" alt="Typescript" width="100">                                  |
+| 기술 | 설명 |
+|------|------|
+| ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) | SSR + CSR 혼합 기반의 리액트 프레임워크 |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) | 타입 안정성과 코드 자동 완성 지원 |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) | 유틸리티 기반 반응형 CSS 프레임워크 |
+| ![React Query](https://img.shields.io/badge/React_Query-ff4154?logo=reactquery&logoColor=white) | 서버 상태 관리 및 데이터 캐싱 |
+| ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-ec5990?logo=reacthookform&logoColor=white) | 효율적인 폼 상태 관리 |
+| ![Zod](https://img.shields.io/badge/Zod-3b82f6?logo=zod&logoColor=white) | 타입 기반 스키마 유효성 검사 |
+| ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) | API 통신을 위한 HTTP 클라이언트 |
+| ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) | UI 컴포넌트 문서화 및 독립적 개발 도구 |
+| ![React Calendar](https://img.shields.io/badge/React_Calendar-61DAFB?logo=react&logoColor=white) | 예약일 선택을 위한 달력 컴포넌트 |
+| ![Kakao Maps](https://img.shields.io/badge/Kakao_Maps-yellow?logo=kakao&logoColor=black) | 체험 위치 기반 지도 시각화 구현 |
+| ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) | 정적 웹사이트 및 서버리스 기반 클라우드 배포 플랫폼 |
 
-<br/>
-
-- **Library & Framework**
-
-|                  |                                                                                                                                |         |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| React            | <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100">            | 19.0.0  |
-| Next.js          | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Next.js" width="100">  | 15.2.11 |
-| Css_modules      | <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100"> | 6.7.1  |
-| React-query | <img src="https://images.velog.io/images/hyunjoong/post/c534bf30-87d9-4f5d-a600-71e3a09e3b75/image.png" alt="React query" width="100"> | 5.67.3  |
-| Vervel      | <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="Vercel" width="100"> | 41.4.0  |
 
 <br/>
 
