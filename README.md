@@ -59,6 +59,7 @@
 - **로그인**:
 
   - 사용자 인증 정보를 통해 로그인합니다.
+![global로그인gif](https://github.com/user-attachments/assets/edac46de-3913-4b8f-af16-5224a46adf39)
 
 - **체험 목록 페이지**:
 
