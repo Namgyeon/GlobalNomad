@@ -56,14 +56,19 @@
 
   - 회원가입 시 DB에 유저정보가 등록됩니다.
   - 사용자 인증 정보를 통해 로그인합니다.
+ 
+    
 ![2025-04-2012 42 04-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3ee00279-8c2c-462e-a975-7b437bd672e0)
 
 
 
 - **카카오 회원가입, 로그인**:
   
-  - 카카오 Oauth를 활용하여 로그인, 회원가입합니다. 
+  - 카카오 Oauth를 활용하여 로그인, 회원가입합니다.
+ 
+    ![2025-04-2012 57 47-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1da9e9af-e07c-49df-b64d-4efeddfa8b9f)
 
+(이미 가입했기 때문에 등록한 사용자라고 에러알림뜸)
 
 <br/>
 <br/>
