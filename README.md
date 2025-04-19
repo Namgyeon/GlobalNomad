@@ -56,7 +56,8 @@
 
   - 회원가입 시 DB에 유저정보가 등록됩니다.
   - 사용자 인증 정보를 통해 로그인합니다.
-![Uploading 2025-04-2012.35.52-ezgif.com-video-to-gif-converter.gif…]()
+![2025-04-2012 42 04-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3ee00279-8c2c-462e-a975-7b437bd672e0)
+
 
 
 - **카카오 회원가입, 로그인**:
