@@ -65,8 +65,9 @@
 - **카카오 회원가입, 로그인**:
   
   - 카카오 Oauth를 활용하여 로그인, 회원가입합니다.
- 
-    ![2025-04-2012 57 47-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1da9e9af-e07c-49df-b64d-4efeddfa8b9f)
+
+
+![2025-04-2012 57 47-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1da9e9af-e07c-49df-b64d-4efeddfa8b9f)
 
 (이미 가입했기 때문에 등록한 사용자라고 에러알림뜸)
 
