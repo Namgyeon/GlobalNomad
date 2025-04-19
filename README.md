@@ -32,7 +32,7 @@
 
 ## 🔗 배포 링크
 
-👉 [GlobalNomad 바로가기](https://your-deploy-link.com)  
+👉 [GlobalNomad 바로가기](https://global-nomad-rust.vercel.app/)  
 
 <br/>
 <br/>
