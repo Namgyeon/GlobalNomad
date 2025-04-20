@@ -36,6 +36,8 @@
 
 ## 🤝 팀 깃허브
 
+👉 [팀 깃허브 가기](https://github.com/T2-GlobalNomad/GlobalNomad)
+
 <br/>
 <br/>
 <br/>
