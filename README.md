@@ -34,6 +34,8 @@
 
 👉 [GlobalNomad 바로가기](https://global-nomad-rust.vercel.app/)  
 
+## 🤝 팀 깃허브
+
 <br/>
 <br/>
 <br/>
@@ -50,7 +52,7 @@
 <br/>
 <br/>
 
-# Key Features
+# 내가 구현한 기능
 
 - **회원가입,로그인**:
 
